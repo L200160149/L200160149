@@ -20,9 +20,9 @@
 <h3 align="left"><img src="https://listemoji.com/img/emoji/using/large-red-circle-1f534-microsoft.png" width="12" height="12"/> Let's Connect</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/supriadi-06a8b2198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriadi-06a8b2198/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/supriadi-06a8b2198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriadi-06a8b2198/" height="30" width="40" /></a>
 <a href="https://instagram.com/supriadif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supriadif_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/suprilab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suprilab/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/suprilab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/suprilab/" height="30" width="40" /></a>
 <a href="https://medium.com/@supriadif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@supriadif" height="30" width="40" /></a>
 
 </p>
